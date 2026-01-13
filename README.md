@@ -1,5 +1,6 @@
 <p align="center">
- ![ClaudeComic](https://github.com/user-attachments/assets/81159c59-b6f2-4808-84dd-1ccea7b155d2)
+
+![ClaudeComic](https://github.com/user-attachments/assets/cefac29c-6cfb-4d6b-95c0-520f31bf18fa)
 
 
 </p>
