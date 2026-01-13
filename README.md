@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="public/logo.png" width="140" />
+ ![ClaudeComic](https://github.com/user-attachments/assets/81159c59-b6f2-4808-84dd-1ccea7b155d2)
+
+
 </p>
 
 <h1 align="center">🎨 ClaudeComic</h1>
